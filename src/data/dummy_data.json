@@ -1,0 +1,208 @@
+[
+  {
+    "version": "5.1.2",
+    "product": {
+      "categoryId": "all-products",
+      "category": "All products",
+      "typeId": null,
+      "type": null,
+      "subTypeId": null,
+      "subType": null
+    },
+    "entryType": "All Products",
+    "productType": "Bikes",
+    "productSubtype": null,
+    "units": 1667,
+    "unitPrice": [
+      {
+        "currencyCode": "eur",
+        "currency": "Euro",
+        "value": 27.579
+      },
+      {
+        "currencyCode": "usd",
+        "currency": "US Dollar",
+        "value": 27.012
+      }
+    ],
+    "grossRevenue": 21352.22,
+    "location": {
+      "continent": "Europe",
+      "country": "Germany",
+      "city": "Berlin"
+    },
+    "legalEntity": 13
+  },
+  {
+    "version": "5.0.4",
+    "product": {
+      "categoryId": "all-products",
+      "category": "All products",
+      "typeId": null,
+      "type": null,
+      "subTypeId": null,
+      "subType": null
+    },
+    "entryType": "All Products",
+    "productType": null,
+    "productSubtype": null,
+    "units": 88454,
+    "unitPrice": [
+      {
+        "currencyCode": "eur",
+        "currency": "Euro",
+        "value": 963.31
+      },
+      {
+        "currencyCode": "usd",
+        "currency": "US Dollar",
+        "value": 962.571
+      }
+    ],
+    "grossRevenue": 118880,
+    "location": {
+      "continent": "Europe",
+      "country": "Germany",
+      "city": "Freiburg"
+    },
+    "legalEntity": 11
+  },
+  {
+    "version": "4.0.4",
+    "entryType": "All Products",
+    "productType": null,
+    "productSubtype": null,
+    "units": 1667,
+    "unitPrice": [
+      {
+        "currencyCode": "eur",
+        "currency": "Euro",
+        "value": 0
+      },
+      {
+        "currencyCode": "usd",
+        "currency": "US Dollar",
+        "value": 0
+      }
+    ],
+    "grossRevenue": 0,
+    "location": {
+      "continent": "Europe",
+      "country": "Great Britain",
+      "city": "Manchester"
+    },
+    "legalEntity": 11
+  },
+  {
+    "product": {
+      "categoryId": "all-products",
+      "category": "Suplementary Products",
+      "typeId": null,
+      "type": null,
+      "subTypeId": null,
+      "subType": null
+    },
+    "version": "5.6.4",
+    "entryType": "All Products",
+    "productType": null,
+    "productSubtype": null,
+    "units": 1667,
+    "unitPrice": [
+      {
+        "currencyCode": "eur",
+        "currency": "Euro",
+        "value": 31.4
+      },
+      {
+        "currencyCode": "usd",
+        "currency": "US Dollar",
+        "value": 30.97
+      }
+    ],
+    "grossRevenue": 21352.22,
+    "location": {
+      "continent": "Europe",
+      "country": "Great Britain",
+      "city": "London"
+    },
+    "legalEntity": 11
+  },
+  {
+    "version": "5.6.4",
+    "entryType": "All Products",
+    "productType": null,
+    "productSubtype": null,
+    "units": 1667,
+    "unitPrice": [
+      {
+        "currencyCode": "eur",
+        "currency": "Euro",
+        "value": 34.88
+      },
+      {
+        "currencyCode": "usd",
+        "currency": "US Dollar",
+        "value": 35.479
+      }
+    ],
+    "grossRevenue": 21352.22,
+    "location": {
+      "continent": "Asia",
+      "country": "Japan",
+      "city": "Tokyo"
+    },
+    "legalEntity": 10
+  },
+  {
+    "version": "5.6.4",
+    "entryType": "All Products",
+    "productType": null,
+    "productSubtype": null,
+    "units": 1667,
+    "unitPrice": [
+      {
+        "currencyCode": "eur",
+        "currency": "Euro",
+        "value": 547
+      },
+      {
+        "currencyCode": "usd",
+        "currency": "US Dollar",
+        "value": 645
+      }
+    ],
+    "grossRevenue": 21352.22,
+    "location": {
+      "continent": "Asia",
+      "country": "Japan",
+      "city": "Osaka"
+    },
+    "legalEntity": 10
+  },
+  {
+    "version": "5.6.4",
+    "entryType": "Suplmentary Products",
+    "productType": null,
+    "productSubtype": null,
+    "units": 1667,
+    "unitPrice": [
+      {
+        "currencyCode": "eur",
+        "currency": "Euro",
+        "value": 1112
+      },
+      {
+        "currencyCode": "usd",
+        "currency": "US Dollar",
+        "value": 888
+      }
+    ],
+    "grossRevenue": 21352.22,
+    "location": {
+      "continent": "Asia",
+      "country": "Japan",
+      "city": "Osaka"
+    },
+    "legalEntity": 10
+  }
+]
