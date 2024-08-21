@@ -1,7 +1,7 @@
 import React from "react";
 import { ColumnData, DataItem, TableHeadersProps } from "../../types/types";
 
-export function addTableHeaderCell<T extends object>(
+export function addTableHeaderCell(
   acc: ColumnData[],
   cur: DataItem,
   levelKeys: string[],

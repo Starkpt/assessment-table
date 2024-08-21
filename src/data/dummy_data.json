@@ -2,16 +2,13 @@
   {
     "version": "5.1.2",
     "product": {
+      "parentCategoryId": null,
+      "parentCategory": null,
       "categoryId": "all-products",
-      "category": "All products",
-      "typeId": null,
-      "type": null,
-      "subTypeId": null,
-      "subType": null
+      "category": "all-products",
+      "subCategoryId": "bikes",
+      "subCategory": "Bikes"
     },
-    "entryType": "All Products",
-    "productType": "Bikes",
-    "productSubtype": null,
     "units": 1667,
     "unitPrice": [
       {
@@ -36,16 +33,13 @@
   {
     "version": "5.0.4",
     "product": {
+      "parentCategoryId": null,
+      "parentCategory": null,
       "categoryId": "all-products",
-      "category": "All products",
-      "typeId": null,
-      "type": null,
-      "subTypeId": null,
-      "subType": null
+      "category": "all-products",
+      "subCategoryId": null,
+      "subCategory": null
     },
-    "entryType": "All Products",
-    "productType": null,
-    "productSubtype": null,
     "units": 88454,
     "unitPrice": [
       {
@@ -69,9 +63,14 @@
   },
   {
     "version": "4.0.4",
-    "entryType": "All Products",
-    "productType": null,
-    "productSubtype": null,
+    "product": {
+      "parentCategoryId": null,
+      "parentCategory": null,
+      "categoryId": "all-products",
+      "category": "all-products",
+      "subCategoryId": null,
+      "subCategory": null
+    },
     "units": 1667,
     "unitPrice": [
       {
@@ -95,17 +94,14 @@
   },
   {
     "product": {
-      "categoryId": "all-products",
-      "category": "Suplementary Products",
-      "typeId": null,
-      "type": null,
-      "subTypeId": null,
-      "subType": null
+      "parentCategoryId": null,
+      "parentCategory": null,
+      "categoryId": "complementary-products",
+      "category": "complementary-products",
+      "subCategoryId": null,
+      "subCategory": null
     },
     "version": "5.6.4",
-    "entryType": "All Products",
-    "productType": null,
-    "productSubtype": null,
     "units": 1667,
     "unitPrice": [
       {
@@ -129,9 +125,14 @@
   },
   {
     "version": "5.6.4",
-    "entryType": "All Products",
-    "productType": null,
-    "productSubtype": null,
+    "product": {
+      "parentCategoryId": null,
+      "parentCategory": null,
+      "categoryId": "all-products",
+      "category": "all-products",
+      "subCategoryId": null,
+      "subCategory": null
+    },
     "units": 1667,
     "unitPrice": [
       {
@@ -155,9 +156,14 @@
   },
   {
     "version": "5.6.4",
-    "entryType": "All Products",
-    "productType": null,
-    "productSubtype": null,
+    "product": {
+      "parentCategoryId": null,
+      "parentCategory": null,
+      "categoryId": "all-products",
+      "category": "all-products",
+      "subCategoryId": null,
+      "subCategory": null
+    },
     "units": 1667,
     "unitPrice": [
       {
@@ -181,9 +187,14 @@
   },
   {
     "version": "5.6.4",
-    "entryType": "Suplmentary Products",
-    "productType": null,
-    "productSubtype": null,
+    "product": {
+      "parentCategoryId": null,
+      "parentCategory": null,
+      "categoryId": "all-products",
+      "category": "all-products",
+      "subCategoryId": null,
+      "subCategory": null
+    },
     "units": 1667,
     "unitPrice": [
       {

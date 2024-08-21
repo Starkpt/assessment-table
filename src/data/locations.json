@@ -1,0 +1,160 @@
+[
+  {
+    "parentLocation": null,
+    "id": "europe",
+    "name": "Europe",
+    "type": "continent",
+    "subLocation": ["germany", "great-britain"]
+  },
+  {
+    "parentLocation": "europe",
+    "id": "great-britain",
+    "name": "Great Britain",
+    "type": "country",
+    "subLocation": ["london", "machester", "liverpool"]
+  },
+  {
+    "parentLocation": "great-britain",
+    "id": "manchester",
+    "name": "Manchester",
+    "type": "city",
+    "subLocation": null
+  },
+  {
+    "parentLocation": "great-britain",
+    "id": "liverpool",
+    "name": "Liverpool",
+    "type": "city",
+    "subLocation": null
+  },
+  {
+    "parentLocation": "great-britain",
+    "id": "london",
+    "name": "London",
+    "type": "city",
+    "subLocation": null
+  },
+
+  {
+    "parentLocation": null,
+    "id": "asia",
+    "name": "Asia",
+    "type": "continent",
+    "subLocation": ["japan"]
+  },
+  {
+    "parentLocation": "asia",
+    "id": "japan",
+    "name": "Japan",
+    "type": "country",
+    "subLocation": ["osaka", "tokyo"]
+  },
+  {
+    "parentLocation": "japan",
+    "id": "osaka",
+    "name": "Osaka",
+    "type": "city",
+    "subLocation": null
+  },
+  {
+    "parentLocation": "japan",
+    "id": "tokyo",
+    "name": "Tokyo",
+    "type": "city",
+    "subLocation": null
+  },
+
+  {
+    "parentLocation": null,
+    "id": "africa",
+    "name": "Africa",
+    "type": "continent",
+    "subLocation": ["south-africa"]
+  },
+  {
+    "parentLocation": "africa",
+    "id": "south-africa",
+    "name": "South Africa",
+    "type": "country",
+    "subLocation": ["joanesburg"]
+  },
+  {
+    "parentLocation": "south-africa",
+    "id": "joanesburg",
+    "name": "Joanesburg",
+    "type": "city",
+    "subLocation": null
+  },
+
+  {
+    "parentLocation": null,
+    "id": "america",
+    "name": "America",
+    "type": "continent",
+    "subLocation": ["north-america", "south-america"]
+  },
+  {
+    "parentLocation": "america",
+    "id": "north-america",
+    "name": "North America",
+    "type": "sub-continent",
+    "subLocation": ["united-states"]
+  },
+  {
+    "parentLocation": "north-america",
+    "id": "united-states",
+    "name": "United States of America",
+    "type": "country",
+    "subLocation": ["new-york"]
+  },
+  {
+    "parentLocation": "north-america",
+    "id": "new-york",
+    "name": "New York",
+    "type": "city",
+    "subLocation": null
+  },
+  {
+    "parentLocation": "america",
+    "id": "south-america",
+    "name": "South America",
+    "type": "sub-continent",
+    "subLocation": ["united-states"]
+  },
+  {
+    "parentLocation": "south-america",
+    "id": "brazil",
+    "name": "Brazil",
+    "type": "country",
+    "subLocation": ["sao-paulo"]
+  },
+  {
+    "parentLocation": "brazil",
+    "id": "sao-paulo",
+    "name": "São Paulo",
+    "type": "city",
+    "subLocation": null
+  },
+
+  {
+    "parentLocation": null,
+    "id": "oceania",
+    "name": "Oceania",
+    "type": "continent",
+    "subLocation": []
+  },
+  {
+    "parentLocation": "oceania",
+    "id": "australia",
+    "name": "Australia",
+    "type": "country",
+    "subLocation": ["sydney"]
+  },
+  {
+    "parentLocation": "australia",
+    "id": "sydney",
+    "name": "sydney",
+    "type": "city",
+    "subLocation": null
+  }
+]

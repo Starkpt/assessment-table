@@ -1,0 +1,37 @@
+[
+  {
+    "parentCategoryId": null,
+    "categoryId": "all-products",
+    "category": "All Products"
+  },
+  {
+    "parentCategoryId": "all-products",
+    "categoryId": "bikes",
+    "category": "Bikes"
+  },
+  {
+    "parentCategoryId": "bikes",
+    "categoryId": "mountain-bikes",
+    "category": "Mountain Bikes"
+  },
+  {
+    "parentCategoryId": "bikes",
+    "categoryId": "road-bikes",
+    "category": "Road Bikes"
+  },
+  {
+    "parentCategoryId": "bikes",
+    "categoryId": "touring-bikes",
+    "category": "Touring Bikes"
+  },
+  {
+    "parentCategoryId": "all-products",
+    "categoryId": "complementary-products",
+    "category": "Complementary Products"
+  },
+  {
+    "parentCategoryId": "complementary-products",
+    "categoryId": "subscriptions",
+    "category": "Subscriptions"
+  }
+]
